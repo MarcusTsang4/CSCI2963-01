@@ -14,3 +14,6 @@ The ten criteria for open source not only allows anyone to utilize other people'
 ![RegExCross2](https://github.com/MarcusTsang4/CSCI2963-01/blob/master/RegExCrossword2.png)
 ![RegExCross3](https://github.com/MarcusTsang4/CSCI2963-01/blob/master/RegExCrossword3.png)
 ![RegExCross4](https://github.com/MarcusTsang4/CSCI2963-01/blob/master/RegExCrossword4.png)
+
+Blockly Maze
+![Blockly](https://github.com/MarcusTsang4/CSCI2963-01/blob/master/BlocklyMaze.png)
